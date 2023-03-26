@@ -10,6 +10,7 @@ Hi there! My name is Isaac. Here a little bit about myself:
 * :dark_sunglasses: I’m interested in Extended Reality (XR) technologies but mostly Virtual Reality (VR)  and its applications!
 
 * :desktop_computer: I enjoy making 3D models in my free time between coding projects. Check out some of my models [here](https://sketchfab.com/Izic)!
+* Checkout a Website [here](http://127.0.0.1:5500/cs_blog.html)!
 
 Feel free to check out some of my projects here on GitHub! There may be only a few, but maybe they’ll interest you :)
 
