@@ -20,7 +20,7 @@ Feel free to check out some of my projects here on GitHub! There may be only a f
 ## Statistics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohret&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=irohret&show_icons=true&theme=tokyonight" />
-
+<br>
 <img align="left" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 <img align="left" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 
