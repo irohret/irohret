@@ -11,7 +11,7 @@ Hi there! My name is Isaac. Here a little bit about myself:
 
 * :desktop_computer: I enjoy making 3D models in my free time between coding projects. Check out some of my models [here](https://sketchfab.com/Izic)!
 
-[//] # * :newspaper: Feel free to also check out my CS blog [here](https://irohret.github.io/web/index.html)!
+[//]: # * :newspaper: Feel free to also check out my CS blog [here](https://irohret.github.io/web/index.html)!
 
 * :newspaper: Feel free to also check out my website [here](https://crimson-katharyn-73.tiiny.site/)!
   
